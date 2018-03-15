@@ -1,6 +1,4 @@
-package autopilot_planning;
-
-import autopilot_utilities.Vector3f;
+import Vector3f;
 
 /**
  * A class of Dubins paths in 2 dimensions.
