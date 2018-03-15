@@ -7,7 +7,7 @@ import autopilot_utilities.Vector3f;
  *  Dubins paths are trajectories for given start/end velocity vectors and tangents with a constraint on
  *  maximum turning radius.
  * 
- * @author 	Team Saffier
+ * @author 	Bruno Vandekerkhove
  * @version 	1.0
  */
 public class DubinsPath2D {
